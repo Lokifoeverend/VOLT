@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c48e2077-881f-4d5a-a695-6a0dae35486f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/training_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subword-nmt/training_data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOLT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/mosesdecoder/contrib/arrow-pipelines/pcl/components/wrappers/cleanup/cleanup.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/mosesdecoder/contrib/arrow-pipelines/pcl/components/wrappers/cleanup/cleanup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/mosesdecoder/contrib/arrow-pipelines/pcl/components/wrappers/data_split/data_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/mosesdecoder/contrib/arrow-pipelines/pcl/components/wrappers/data_split/data_split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subword-nmt" beforeDir="false" afterPath="$PROJECT_DIR$/subword-nmt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../WeChat Files/wxid_pr9e6eyog4kk22/FileStorage/File/2023-12/test.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VHLmIC3ieKQ4tl1Hx7ogUYqLhx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Program Files/AI/cloud_caculation/final_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\AI\cloud_caculation\final_project" />
+      <recent name="D:\Program Files\AI\data_mining\lecture6" />
+      <recent name="D:\Program Files\AI\data_mining\lecture5" />
+      <recent name="D:\Program Files\AI\data_mining\lecture4" />
+      <recent name="D:\Program Files\AI\data_mining\lecture3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\AI" />
+      <recent name="D:\Program Files\AI\cloud_caculation\final_project" />
+      <recent name="D:\Program Files\AI\cloud_caculation\final_project\VOLT" />
+      <recent name="D:\Program Files\AI\data_mining" />
+      <recent name="D:\Program Files\AI\data_mining\lecture2_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ot_run_cloud_caculation">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="muv-search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cloud_caculation/final_project/VOLT/examples/muv-search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ot_run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VOLT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VOLT/ot_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ot_run_cloud_caculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VOLT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VOLT/ot_run_cloud_caculation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bpe_codes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_bpe_codes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_bpe_codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VOLT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Program Files\AI\test_bpe_codes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ot_run_cloud_caculation" />
+        <item itemvalue="Python.test_bpe_codes (1)" />
+        <item itemvalue="Python.test_bpe_codes" />
+        <item itemvalue="Python.ot_run (1)" />
+        <item itemvalue="Python.muv-search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c48e2077-881f-4d5a-a695-6a0dae35486f" name="Changes" comment="" />
+      <created>1694488217922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694488217922</updated>
+      <workItem from="1694488219606" duration="2304000" />
+      <workItem from="1695092918038" duration="3022000" />
+      <workItem from="1695120783901" duration="2078000" />
+      <workItem from="1695122888806" duration="3332000" />
+      <workItem from="1695180037301" duration="3334000" />
+      <workItem from="1695293671172" duration="5708000" />
+      <workItem from="1695299422510" duration="1465000" />
+      <workItem from="1695431450339" duration="1028000" />
+      <workItem from="1695433839794" duration="2343000" />
+      <workItem from="1695492186822" duration="47000" />
+      <workItem from="1695630715932" duration="4397000" />
+      <workItem from="1695691675871" duration="1971000" />
+      <workItem from="1695697524880" duration="2777000" />
+      <workItem from="1695983670883" duration="595000" />
+      <workItem from="1696061224964" duration="3774000" />
+      <workItem from="1696153257905" duration="326000" />
+      <workItem from="1696308952823" duration="15640000" />
+      <workItem from="1696645170607" duration="9886000" />
+      <workItem from="1696832266386" duration="981000" />
+      <workItem from="1696898270360" duration="7992000" />
+      <workItem from="1696945272029" duration="2019000" />
+      <workItem from="1696986820031" duration="2590000" />
+      <workItem from="1696989444299" duration="194000" />
+      <workItem from="1696990643055" duration="1308000" />
+      <workItem from="1697008776426" duration="9250000" />
+      <workItem from="1697030601585" duration="500000" />
+      <workItem from="1697033545743" duration="141000" />
+      <workItem from="1697161089598" duration="361000" />
+      <workItem from="1697184280915" duration="2316000" />
+      <workItem from="1697382648508" duration="18000" />
+      <workItem from="1697444341977" duration="676000" />
+      <workItem from="1697512026113" duration="1876000" />
+      <workItem from="1697548480620" duration="1168000" />
+      <workItem from="1697969139115" duration="6262000" />
+      <workItem from="1698060192335" duration="696000" />
+      <workItem from="1698117110812" duration="2277000" />
+      <workItem from="1698128897582" duration="128000" />
+      <workItem from="1698132974700" duration="281000" />
+      <workItem from="1698136875599" duration="156000" />
+      <workItem from="1698204463117" duration="1067000" />
+      <workItem from="1698205852705" duration="1422000" />
+      <workItem from="1698496992332" duration="1745000" />
+      <workItem from="1698574555635" duration="5838000" />
+      <workItem from="1698580427166" duration="2487000" />
+      <workItem from="1698582930877" duration="757000" />
+      <workItem from="1698721732123" duration="325000" />
+      <workItem from="1698722073622" duration="2578000" />
+      <workItem from="1698756274158" duration="4924000" />
+      <workItem from="1698805065384" duration="2184000" />
+      <workItem from="1698810045474" duration="307000" />
+      <workItem from="1698811016496" duration="257000" />
+      <workItem from="1698817690850" duration="9010000" />
+      <workItem from="1698892274014" duration="3474000" />
+      <workItem from="1698895784086" duration="614000" />
+      <workItem from="1698922248378" duration="7752000" />
+      <workItem from="1699091496618" duration="837000" />
+      <workItem from="1699234625789" duration="5448000" />
+      <workItem from="1699255027360" duration="720000" />
+      <workItem from="1699330403342" duration="496000" />
+      <workItem from="1699341597612" duration="1232000" />
+      <workItem from="1699409867293" duration="1492000" />
+      <workItem from="1699411772272" duration="789000" />
+      <workItem from="1699413689655" duration="826000" />
+      <workItem from="1699415149250" duration="2000" />
+      <workItem from="1699416042198" duration="390000" />
+      <workItem from="1699497028717" duration="49000" />
+      <workItem from="1699674018275" duration="1127000" />
+      <workItem from="1699864346621" duration="56000" />
+      <workItem from="1700537134278" duration="513000" />
+      <workItem from="1700538001111" duration="595000" />
+      <workItem from="1700566448154" duration="5052000" />
+      <workItem from="1700618498562" duration="1222000" />
+      <workItem from="1700623011015" duration="1200000" />
+      <workItem from="1700626012182" duration="1139000" />
+      <workItem from="1700651510902" duration="2710000" />
+      <workItem from="1701134853544" duration="1237000" />
+      <workItem from="1701156173527" duration="923000" />
+      <workItem from="1701170140285" duration="3487000" />
+      <workItem from="1701173667588" duration="1550000" />
+      <workItem from="1701175247400" duration="10483000" />
+      <workItem from="1701224038813" duration="7904000" />
+      <workItem from="1701655636347" duration="3222000" />
+      <workItem from="1701671409698" duration="902000" />
+      <workItem from="1701748518674" duration="147000" />
+      <workItem from="1701748687239" duration="257000" />
+      <workItem from="1701763824420" duration="69000" />
+      <workItem from="1701825877547" duration="3000" />
+      <workItem from="1701829018327" duration="1575000" />
+      <workItem from="1701830665076" duration="37000" />
+      <workItem from="1701831820735" duration="143000" />
+      <workItem from="1701836223133" duration="323000" />
+      <workItem from="1701851159414" duration="4231000" />
+      <workItem from="1701861923556" duration="101000" />
+      <workItem from="1702110763961" duration="2392000" />
+      <workItem from="1702256391498" duration="2251000" />
+      <workItem from="1702294356867" duration="1811000" />
+      <workItem from="1702312609913" duration="3812000" />
+      <workItem from="1702341271207" duration="4547000" />
+      <workItem from="1702350719637" duration="589000" />
+      <workItem from="1702351358939" duration="863000" />
+      <workItem from="1702363183824" duration="3544000" />
+      <workItem from="1702386163991" duration="9000" />
+      <workItem from="1702441240729" duration="574000" />
+      <workItem from="1702470364166" duration="355000" />
+      <workItem from="1702535249697" duration="1364000" />
+      <workItem from="1702882006118" duration="1397000" />
+      <workItem from="1703311760079" duration="178000" />
+      <workItem from="1703313400880" duration="611000" />
+      <workItem from="1703508075403" duration="1396000" />
+      <workItem from="1703509597566" duration="3000" />
+      <workItem from="1703512758739" duration="2625000" />
+      <workItem from="1703550923987" duration="228000" />
+      <workItem from="1703552551973" duration="634000" />
+      <workItem from="1703608843460" duration="702000" />
+      <workItem from="1703663773832" duration="626000" />
+      <workItem from="1704155077186" duration="4000" />
+      <workItem from="1704203277131" duration="25000" />
+      <workItem from="1704204566702" duration="1000" />
+      <workItem from="1704355779919" duration="2000" />
+      <workItem from="1704459530293" duration="716000" />
+      <workItem from="1704512920734" duration="1734000" />
+      <workItem from="1704529997950" duration="669000" />
+      <workItem from="1704673532327" duration="34000" />
+      <workItem from="1704673601921" duration="2368000" />
+      <workItem from="1705590571108" duration="4000" />
+      <workItem from="1706599705726" duration="11000" />
+      <workItem from="1709537665155" duration="16000" />
+      <workItem from="1709554851878" duration="256000" />
+      <workItem from="1710225777093" duration="620000" />
+      <workItem from="1710742221169" duration="98000" />
+      <workItem from="1710742427767" duration="599000" />
+      <workItem from="1710749238210" duration="2489000" />
+      <workItem from="1710821576599" duration="3028000" />
+      <workItem from="1710829252363" duration="1549000" />
+      <workItem from="1711434895636" duration="1553000" />
+      <workItem from="1711542932548" duration="627000" />
+      <workItem from="1711553572882" duration="1506000" />
+      <workItem from="1711958204815" duration="5326000" />
+      <workItem from="1712045017035" duration="1780000" />
+      <workItem from="1712047066116" duration="1036000" />
+      <workItem from="1712048427046" duration="12000" />
+      <workItem from="1712048595963" duration="104000" />
+      <workItem from="1712836600730" duration="2186000" />
+      <workItem from="1712887980704" duration="22000" />
+      <workItem from="1713161700924" duration="820000" />
+      <workItem from="1713167939812" duration="5282000" />
+      <workItem from="1713249713940" duration="191000" />
+      <workItem from="1713249915188" duration="127000" />
+      <workItem from="1713250344371" duration="2743000" />
+      <workItem from="1713767772184" duration="2949000" />
+      <workItem from="1713770858873" duration="901000" />
+      <workItem from="1713772337219" duration="321000" />
+      <workItem from="1714372463587" duration="696000" />
+      <workItem from="1714373728529" duration="900000" />
+      <workItem from="1714377459069" duration="1803000" />
+      <workItem from="1714379280977" duration="3538000" />
+      <workItem from="1714448547944" duration="6574000" />
+      <workItem from="1714456912688" duration="4180000" />
+      <workItem from="1714752026598" duration="54000" />
+      <workItem from="1714976433281" duration="1819000" />
+      <workItem from="1715067985264" duration="350000" />
+      <workItem from="1715576948642" duration="636000" />
+      <workItem from="1715583772081" duration="6583000" />
+      <workItem from="1716108668231" duration="50000" />
+      <workItem from="1716185968858" duration="1840000" />
+      <workItem from="1716190914785" duration="126000" />
+      <workItem from="1716375207515" duration="773000" />
+      <workItem from="1716742085812" duration="1500000" />
+      <workItem from="1716744054297" duration="962000" />
+      <workItem from="1716745037926" duration="704000" />
+      <workItem from="1716745783953" duration="1045000" />
+      <workItem from="1716775016788" duration="1866000" />
+      <workItem from="1716776933311" duration="3156000" />
+      <workItem from="1716796979303" duration="173000" />
+      <workItem from="1716797179706" duration="2294000" />
+      <workItem from="1717226196477" duration="272000" />
+      <workItem from="1718091279924" duration="1034000" />
+      <workItem from="1718209139915" duration="36000" />
+      <workItem from="1718787118078" duration="2134000" />
+      <workItem from="1720161178011" duration="1771000" />
+      <workItem from="1720348677948" duration="696000" />
+      <workItem from="1720371511754" duration="326000" />
+      <workItem from="1720416292707" duration="116000" />
+      <workItem from="1720416628845" duration="1802000" />
+      <workItem from="1720418821021" duration="13503000" />
+      <workItem from="1720444624018" duration="15819000" />
+      <workItem from="1720484603833" duration="880000" />
+      <workItem from="1720485571236" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task1_1_Maze_problem/maze_dfs_astar.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task1_1_Maze_problem/maze_dfs_astar.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task1_Eight_digital_problem/Astar_8digital_problem.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task2/Project 2 - Pacman/multiAgents.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task2/Project 2 - Pacman/multiAgents.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task2/Project 2 - Pacman/multiAgents.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../A-学习1/大三上学期/金融计量分析/6.Introduction_to_FirmCharacteristics/processingFirmCharacteristicsData.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../A-学习1/大三上学期/金融计量分析/6.Introduction_to_FirmCharacteristics/processingFirmCharacteristicsData.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI$bfs_dfs_example.coverage" NAME="bfs_dfs_example Coverage Results" MODIFIED="1695299160261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eight_digital_problem" />
+    <SUITE FILE_PATH="coverage/AI$first.coverage" NAME="first Coverage Results" MODIFIED="1695436169138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eight_digital_problem" />
+    <SUITE FILE_PATH="coverage/AI$test.coverage" NAME="test Coverage Results" MODIFIED="1720418893220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cloud_caculation/final_project" />
+    <SUITE FILE_PATH="coverage/AI$maze_dfs_astar.coverage" NAME="maze_dfs_astar Coverage Results" MODIFIED="1697025945552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze_problem" />
+    <SUITE FILE_PATH="coverage/AI$eight_bfs_eg2_1_.coverage" NAME="eight-bfs-eg2(1) Coverage Results" MODIFIED="1697030827387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/AI$Tictactoe.coverage" NAME="Tictactoe Coverage Results" MODIFIED="1699416371192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2_pacman/tictactoe" />
+    <SUITE FILE_PATH="coverage/AI$maze_dfs_astar__1_.coverage" NAME="maze_dfs_astar (1) Coverage Results" MODIFIED="1697025698467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze_problem" />
+    <SUITE FILE_PATH="coverage/AI$4chess_1__1_.coverage" NAME="4chess_1 (1) Coverage Results" MODIFIED="1699091503324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2_pacman/tictactoe" />
+    <SUITE FILE_PATH="coverage/AI$multiAgents.coverage" NAME="multiAgents Coverage Results" MODIFIED="1698118454720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2_pacman/Project 2 - Pacman" />
+    <SUITE FILE_PATH="coverage/AI$4chess.coverage" NAME="4chess Coverage Results" MODIFIED="1698841717796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2_pacman/4chess" />
+    <SUITE FILE_PATH="coverage/AI$eight_bfs_eg2.coverage" NAME="eight-bfs-eg2 Coverage Results" MODIFIED="1697024141762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/AI$dfs_8digital_problem.coverage" NAME="dfs_8digital_problem Coverage Results" MODIFIED="1697186544825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eight_digital_problem" />
+    <SUITE FILE_PATH="coverage/AI$bfs_8digital_problem.coverage" NAME="bfs_8digital_problem Coverage Results" MODIFIED="1697549047519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eight_digital_problem" />
+    <SUITE FILE_PATH="coverage/AI$8digital_dfs.coverage" NAME="8digital_dfs Coverage Results" MODIFIED="1695692979033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eight_digital_problem" />
+    <SUITE FILE_PATH="coverage/AI$4chess__1_.coverage" NAME="4chess (1) Coverage Results" MODIFIED="1698893957400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2_pacman/tictactoe" />
+    <SUITE FILE_PATH="coverage/AI$processingFirmCharacteristicsData.coverage" NAME="processingFirmCharacteristicsData Coverage Results" MODIFIED="1699416401362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../A-学习1/大三上学期/金融计量分析/6.Introduction_to_FirmCharacteristics" />
+    <SUITE FILE_PATH="coverage/AI$Astar_8digital_problem.coverage" NAME="Astar_8digital_problem Coverage Results" MODIFIED="1697548624346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eight_digital_problem" />
+    <SUITE FILE_PATH="coverage/AI$dfs_maze.coverage" NAME="dfs_maze Coverage Results" MODIFIED="1696947232725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maze_problem" />
+    <SUITE FILE_PATH="coverage/AI$eight_bfs.coverage" NAME="eight bfs Coverage Results" MODIFIED="1697025277238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/AI$pacman.coverage" NAME="pacman Coverage Results" MODIFIED="1698118321524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task2_pacman/Project 2 - Pacman" />
+  </component>
+</project>
